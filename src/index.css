@@ -18,10 +18,18 @@ body {
   justify-content: center;
 }
 
+.main .links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 .box {
   font-family: mononoki;
 
   margin-top: 20px;
+  margin-right: 20px;
+
   line-height: 30px;
   background: #181920;
 
