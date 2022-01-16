@@ -25,7 +25,8 @@ body {
   box-shadow: 5px 4px 3px #20222a;
 
   display: flex;
-  height: 100px;
+  height: 80px;
+  padding: 10px;
 }
 
 .main .links {

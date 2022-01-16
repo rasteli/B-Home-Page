@@ -1,0 +1,10 @@
+#+TITLE: Just a home page for my browsers
+#+AUTHOR: rasteli
+
+There's not much to see.
+
+-----
+
+#+CAPTION: Screenshot of the home page.
+#+NAME: Screenshot
+[[../scrot.png]]
